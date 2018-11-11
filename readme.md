@@ -15,4 +15,4 @@ sh tests/load-test.sh
 ```
 
 ## Todo: Frontend
-Due to 
+Other interesting activities happens this weekend :) 
